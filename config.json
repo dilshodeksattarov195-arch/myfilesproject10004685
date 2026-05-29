@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searcheerify",
+        "uuid": 39883405,
+        "checksum": "h4fink"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
